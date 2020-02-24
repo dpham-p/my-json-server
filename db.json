@@ -1,8 +1,11 @@
 {
-  "chicken": [
+  "posts": [
     {
       "id": 1,
-      "part: "breast"
+      "title": "hello"
     }
-  ]
+  ],
+  "profile": {
+    "name": "typicode"
+  }
 }
