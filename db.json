@@ -1,11 +1,30 @@
 {
-  "posts": [
+  "chicken": [
     {
       "id": 1,
-      "title": "hello"
+      "part": "breast"
+    },
+    {
+      "id": 2,
+      "part": "thigh"
+    },
+    {
+      "id": 3,
+      "part": "drumsticks"
+    },
+    {
+      "id": 4,
+      "part": "breast"
     }
   ],
-  "profile": {
-    "name": "typicode"
-  }
+  "machine": [
+    {
+      "name": "wrapper",
+      "status": "running"
+    },
+    {
+      "name": "labeler",
+      "status": "running"
+    }
+  ]
 }
